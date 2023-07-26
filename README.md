@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/miatian1024" target="blank"><img src="https://img.shields.io/twitter/follow/miatian1024?logo=twitter&style=for-the-badge" alt="miatian1024" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mia-tian.com](https://mia-tian.com)
+👨‍💻 All of my projects are available at [https://mia-tian.com](https://mia-tian.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
