@@ -1,7 +1,7 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://th.bing.com/th/id/R.14ae53b8d112e02b22d0f2bff7f4f7a8?rik=uarqANaeKB5%2fdg&riu=http%3a%2f%2fi.imgur.com%2fYr32yur.gif&ehk=kzLZtjbPT80GtQ%2bGrH5dL%2fwmblkB2dpPg8lqELfiN3Q%3d&risl=1&pid=ImgRaw&r=0)]
 <h1 align="center">Hi 👋, I'm Mia</h1>
 <h3 align="center">A full-stack developer</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miatian1024&label=Profile%20views&color=0e75b6&style=flat" alt="miatian1024" /> </p>
 
