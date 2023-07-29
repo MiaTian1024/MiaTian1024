@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mia Tian</h1>
 <h3 align="center">A Passionate Full-stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://s39923.pcdn.co/wp-content/uploads/2022/01/vnc-developer-video2.original.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/socialmedia-webdesign-formusdigital-HEPwfdu6T6svpPE1eN/fullscreen">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miatian1024&label=Profile%20views&color=0e75b6&style=flat" alt="miatian1024" /> </p>
 
