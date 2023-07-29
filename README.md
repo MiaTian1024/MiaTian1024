@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mia Tian</h1>
 <h3 align="center">A Passionate Full-stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/physicsgurukul.com/wp-content/uploads/2019/06/phizik.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miatian1024&label=Profile%20views&color=0e75b6&style=flat" alt="miatian1024" /> </p>
 
