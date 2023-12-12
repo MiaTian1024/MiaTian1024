@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/miatian1024" target="blank"><img src="https://img.shields.io/twitter/follow/miatian1024?logo=twitter&style=for-the-badge" alt="miatian1024" /></a> </p>
 
-👨‍💻 All of my projects are available at [https://mia-tian.com](https://mia-tian.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/miatian1024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miatian1024" height="30" width="40" /></a>
